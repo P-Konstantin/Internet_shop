@@ -6,5 +6,5 @@ The project contains 6 applications:
 * Cart to save products;
 * Coupons application is a system of discounts;
 * Orders application;
-* Payment application use braintree API;
+* Payment application use Braintree API;
 * Shop application.
